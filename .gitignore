@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Zip files
+*.zip
+
+# IDEs and OS metadata
+.vscode/
+.idea/
+Thumbs.db

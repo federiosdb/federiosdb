@@ -52,6 +52,23 @@
   <img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" />
 </p>
 
+**Frameworks**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-0f766e?style=for-the-badge&logo=vuedotjs&logoColor=42b883" alt="Vue" />
+  <img src="https://img.shields.io/badge/Laravel-991b1b?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Symfony-1f2937?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+    <img src="https://img.shields.io/badge/Django-064e3b?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
+
+**CMS & E-commerce**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Magento%202%20(Adobe%20Commerce)-0f172a?style=for-the-badge&logo=magento&logoColor=ff6f00" alt="Magento 2" />
+  <img src="https://img.shields.io/badge/Drupal%2011-0c4a6e?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal 11" />
+  <img src="https://img.shields.io/badge/WordPress%206-1e3a8a?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress 6" />
+</p>
+
 **Data & back-end**
 
 <p align="left">
